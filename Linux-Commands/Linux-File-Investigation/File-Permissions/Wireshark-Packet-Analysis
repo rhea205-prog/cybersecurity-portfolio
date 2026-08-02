@@ -1,0 +1,71 @@
+# Wireshark Packet Analysis
+
+## Scenario
+
+A security analyst was asked to capture and analyze network traffic to identify common network protocols and observe normal network activity.
+
+---
+
+## Objective
+
+Capture live network traffic using Wireshark and identify DNS, HTTP, HTTPS, and other common protocols.
+
+---
+
+## Tools Used
+
+- Wireshark
+- Windows 11
+- Npcap
+
+---
+
+## Skills Demonstrated
+
+- Packet Capture
+- Network Traffic Analysis
+- DNS Analysis
+- Protocol Identification
+- Network Troubleshooting
+
+---
+
+## Capture Process
+
+1. Installed Wireshark and Npcap.
+2. Selected the active Wi-Fi network adapter.
+3. Started a packet capture.
+4. Generated network traffic by visiting websites.
+5. Stopped the capture.
+6. Applied display filters to analyze specific traffic.
+
+---
+
+## Display Filters Used
+
+- `dns`
+- `http`
+- `tcp`
+- `udp`
+- `icmp`
+
+---
+
+## Findings
+
+(To be completed after analyzing the packet capture.)
+
+---
+
+## Lessons Learned
+
+(To be completed after the investigation.)
+
+---
+
+## Next Steps
+
+- Analyze DNS queries.
+- Identify source and destination IP addresses.
+- Examine TCP conversations.
+- Investigate HTTPS traffic.
