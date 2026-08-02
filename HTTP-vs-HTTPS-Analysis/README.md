@@ -28,10 +28,26 @@ Capture HTTPS traffic using Wireshark and analyze how encrypted communications a
 
 ## Findings
 
-A packet capture showed encrypted TLS traffic generated while visiting secure websites. Although the packet contents could not be be read, the source and destination IP addresses, packet sizes, and connection information remained visible.
+## Findings
+
+A packet capture of HTTPS traffic showed encrypted TLSv1.2 and QUIC communications generated while browsing secure websites.
+
+The analysis revealed:
+
+- Encrypted TLS application data
+- QUIC protocol traffic
+- Secure communication over port 443
+- Source and destination IPv6 addresses
+
+Although the encrypted packet contents could not be viewed, Wireshark successfully displayed metadata such as IP addresses, protocols, ports, packet sizes, and timestamps.
+
+No suspicious encrypted traffic was observed during this investigation.
+## Lessons Learned
 
 ## Lessons Learned
 
-- HTTPS uses TLS encryption.
-- Encrypted traffic protects sensitive data.
-- Wireshark can still analyze metadata from encrypted communications.
+- Learned how to capture HTTPS traffic using Wireshark.
+- Identified TLSv1.2 encrypted communications.
+- Observed QUIC traffic used by modern web applications.
+- Understood that HTTPS encrypts the contents of communications while leaving packet metadata visible.
+- Gained hands-on experience analyzing encrypted network traffic.
