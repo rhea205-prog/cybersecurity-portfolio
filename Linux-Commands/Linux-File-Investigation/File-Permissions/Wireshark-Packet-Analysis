@@ -53,16 +53,42 @@ Capture live network traffic using Wireshark and identify DNS, HTTP, HTTPS, and 
 
 ## Findings
 
-(To be completed after analyzing the packet capture.)
+## Findings
+
+During the packet capture, I successfully captured and analyzed DNS traffic generated while browsing the web.
+
+The analysis identified DNS queries and responses for several domains, including:
+
+- chatgpt.com
+- mozilla.cloudflare-dns.com
+- v10.events.data.microsoft.com
+
+The capture also contained both IPv4 (A) and IPv6 (AAAA) DNS records, demonstrating how modern systems resolve domain names to IP addresses before establishing network connections.
+
+No suspicious DNS activity was observed during this packet capture.
 
 ---
 
 ## Lessons Learned
 
-(To be completed after the investigation.)
+## Lessons Learned
+
+- Learned how to capture live network traffic using Wireshark.
+- Used display filters to isolate DNS packets.
+- Observed the DNS name resolution process.
+- Identified IPv4 (A) and IPv6 (AAAA) DNS records.
+- Gained experience analyzing network traffic as part of a cybersecurity investigation.
 
 ---
 
+## Key Protocols Observed
+
+| Protocol | Purpose |
+|----------|---------|
+| DNS | Resolves domain names into IP addresses |
+| UDP | Transport protocol commonly used by DNS |
+| IPv4 | Internet addressing protocol |
+| IPv6 | Next-generation Internet addressing protocol |
 ## Next Steps
 
 - Analyze DNS queries.
