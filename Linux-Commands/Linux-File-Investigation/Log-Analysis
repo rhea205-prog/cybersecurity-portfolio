@@ -1,0 +1,48 @@
+# Linux Authentication Log Analysis
+
+## Scenario
+
+A Linux server generated multiple failed login attempts. The objective was to identify suspicious authentication activity.
+
+---
+
+## Objective
+
+Analyze authentication logs using Linux command-line tools.
+
+---
+
+## Commands Used
+
+- cat
+- grep
+- grep -c
+
+---
+
+## Investigation Steps
+
+1. Opened the authentication log.
+2. Reviewed all login attempts.
+3. Searched for failed logins.
+4. Counted failed authentication attempts.
+5. Documented findings.
+
+---
+
+## Findings
+
+Three failed login attempts were detected against the **admin** account from IP address **192.168.1.55**.
+
+A successful login later occurred for the user **rheuneld** from **192.168.1.100**.
+
+Further investigation would be recommended to determine whether the failed login attempts were caused by user error or a brute-force attack.
+
+---
+
+## Lessons Learned
+
+- Reading Linux log files
+- Searching logs with grep
+- Counting events with grep -c
+- Recognizing suspicious authentication activity
