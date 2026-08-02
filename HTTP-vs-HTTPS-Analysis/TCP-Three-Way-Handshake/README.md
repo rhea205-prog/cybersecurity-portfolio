@@ -27,8 +27,6 @@ tcp
 
 ## Findings
 
-## Findings
-
 The packet capture successfully identified TCP SYN packets used to initiate TCP connections.
 
 Using the display filter:
@@ -44,10 +42,6 @@ The handshake consisted of:
 - ACK
 
 This process establishes a reliable TCP connection before encrypted application data is transmitted.
-
-## Lessons Learned
-
-
 
 ## Lessons Learned
 
