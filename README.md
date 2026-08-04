@@ -1,27 +1,32 @@
-# 👋 Hello, I'm Rheuneld Davis
+👋 Hi, I'm Rheuneld Davis
 
-Welcome to my cybersecurity portfolio!
+Aspiring SOC Analyst | Google Cybersecurity Professional Certificate | Security+ Candidate
 
-I'm currently completing the Google Cybersecurity Professional Certificate while building hands-on cybersecurity projects to strengthen my skills and prepare for a SOC Analyst or Cybersecurity Analyst role.
+I'm transitioning into cybersecurity after building a strong foundation through hands-on labs, security projects, and real-world analysis. My goal is to specialize in Security Operations (SOC), Digital Forensics, Incident Response, and Threat Hunting.
 
-## Skills
-
-- Linux
-- SQL
-- Python (Learning)
-- Wireshark
-- Splunk
-- SIEM
-- Network Security
-- Incident Response
-- Risk Management
-
-## Current Certifications
-
-- Google Cybersecurity Professional Certificate (In Progress)
-
-## Projects
-
-Projects will be added as I complete hands-on labs and real-world cybersecurity investigations.
-
-Thank you for visiting my portfolio!
+Technical Skills
+Linux
+SQL
+Python (Learning)
+Wireshark
+Network Analysis
+TCP/IP
+Security Monitoring
+Incident Response
+Log Analysis
+Git & GitHub
+Certifications
+✅ Google Cybersecurity Professional Certificate
+🎯 CompTIA Security+ (In Progress)
+Featured Projects
+HTTP vs HTTPS Analysis
+TCP Three-Way Handshake
+Linux File Permissions
+Linux Log Analysis
+DNS Analysis
+Currently Learning
+Splunk
+Microsoft Sentinel
+Active Directory
+Malware Analysis
+Digital Forensics
