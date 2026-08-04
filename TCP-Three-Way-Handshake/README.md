@@ -1,48 +1,52 @@
-TCP Three-Way Handshake Analysis
-Scenario
+# HTTP vs HTTPS Analysis
 
-A security analyst analyzed network traffic to observe how TCP connections are established between a client and a server.
-Objective
+## Scenario
 
-Capture and analyze the TCP three-way handshake using Wireshark.
-Tools Used
+A security analyst captured network traffic to compare encrypted and unencrypted web communications.
 
-    Wireshark
-    Windows 11
-    Npcap
+## Objective
 
-Skills Demonstrated
+Capture HTTPS traffic using Wireshark and analyze how encrypted communications appear during a packet capture.
 
-    TCP Analysis
-    Packet Capture
-    Network Communications
-    Wireshark
+## Tools Used
 
-Display Filter Used
+- Wireshark
+- Windows 11
+- Npcap
 
-tcp
-Findings
+## Skills Demonstrated
 
-The packet capture successfully identified TCP SYN packets used to initiate TCP connections.
+- Packet Capture
+- HTTPS Analysis
+- TLS Analysis
+- Network Traffic Analysis
 
-Using the display filter:
+## Display Filters Used
 
-tcp.flags.syn == 1
+- tls
+- tcp
 
-I observed the beginning of the TCP three-way handshake between a client and remote web servers over HTTPS (TCP port 443).
+## Findings
 
-The handshake consisted of:
 
-    SYN
-    SYN-ACK
-    ACK
+A packet capture of HTTPS traffic showed encrypted TLSv1.2 and QUIC communications generated while browsing secure websites.
 
-This process establishes a reliable TCP connection before encrypted application data is transmitted.
-Lessons Learned
+The analysis revealed:
 
-    Learned how TCP connections are established.
-    Used Wireshark display filters to locate SYN packets.
-    Identified the beginning of TCP communication.
-    Improved understanding of how secure web traffic begins.
-Move TCP three-way handshake project
-image
+- Encrypted TLS application data
+- QUIC protocol traffic
+- Secure communication over port 443
+- Source and destination IPv6 addresses
+
+Although the encrypted packet contents could not be viewed, Wireshark successfully displayed metadata such as IP addresses, protocols, ports, packet sizes, and timestamps.
+
+No suspicious encrypted traffic was observed during this investigation.
+## Lessons Learned
+
+
+- Learned how to capture HTTPS traffic using Wireshark.
+- Identified TLSv1.2 encrypted communications.
+- Observed QUIC traffic used by modern web applications.
+- Understood that HTTPS encrypts the contents of communications while leaving packet metadata visible.
+- Gained hands-on experience analyzing encrypted network traffic.
+- Move TCP three-way handshake project
