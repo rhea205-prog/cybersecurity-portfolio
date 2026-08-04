@@ -57,6 +57,6 @@ Examples observed included:
 
 ---
 
-## Screenshot
+## Packet Capture
 
 <img width="1172" height="498" alt="image" src="https://github.com/user-attachments/assets/9d1c5848-e148-4bb8-81f9-a7485b25b11a" />
