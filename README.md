@@ -1,3 +1,15 @@
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-blue?style=for-the-badge&logo=google)
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B_Candidate-red?style=for-the-badge&logo=comptia)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark)
+
+![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
+
 # 👋 Hi, I'm Rheuneld Davis
 
 **Aspiring SOC Analyst | Google Cybersecurity Professional Certificate | Security+ Candidate**
