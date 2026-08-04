@@ -51,3 +51,7 @@ No suspicious encrypted traffic was observed during this investigation.
 - Observed QUIC traffic used by modern web applications.
 - Understood that HTTPS encrypts the contents of communications while leaving packet metadata visible.
 - Gained hands-on experience analyzing encrypted network traffic.
+
+- ## Screenshot
+
+No HTTP traffic was observed during this capture because modern websites primarily use HTTPS/TLS encryption.
