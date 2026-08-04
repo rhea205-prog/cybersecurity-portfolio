@@ -15,15 +15,18 @@ Security Monitoring
 Incident Response
 Log Analysis
 Git & GitHub
+
 Certifications
 ✅ Google Cybersecurity Professional Certificate
 🎯 CompTIA Security+ (In Progress)
+
 Featured Projects
 HTTP vs HTTPS Analysis
 TCP Three-Way Handshake
 Linux File Permissions
 Linux Log Analysis
 DNS Analysis
+
 Currently Learning
 Splunk
 Microsoft Sentinel
