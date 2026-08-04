@@ -14,7 +14,7 @@
 
 **Aspiring SOC Analyst | Google Cybersecurity Professional Certificate | Security+ Candidate**
 
-I'm transitioning into cybersecurity after building a strong foundation through hands-on labs, security projects, and real-world analysis. My goal is to specialize in Security Operations (SOC), Digital Forensics, Incident Response, and Threat Hunting.
+I am an aspiring SOC Analyst passionate about digital forensics, threat hunting, and incident response. This repository documents my hands-on cybersecurity labs and projects as I continue developing practical skills through real-world exercises and professional certifications.
 
 ## 🛠 Technical Skills
 
@@ -29,6 +29,15 @@ I'm transitioning into cybersecurity after building a strong foundation through 
 - Log Analysis
 - Git & GitHub
 
+## 🧰 Security Tools
+
+- Wireshark
+- Linux
+- Git
+- GitHub
+- SQL
+- Python
+
 ## 📜 Certifications
 
 - ✅ Google Cybersecurity Professional Certificate
@@ -36,11 +45,13 @@ I'm transitioning into cybersecurity after building a strong foundation through 
 
 ## 📂 Featured Projects
 
-- HTTP vs HTTPS Analysis
-- TCP Three-Way Handshake
-- Linux File Permissions
-- Linux Log Analysis
-- DNS Analysis
+| Project | Skills |
+|---------|--------|
+| HTTP vs HTTPS Analysis | Network Traffic Analysis |
+| TCP Three-Way Handshake | TCP/IP Fundamentals |
+| Linux File Permissions | Linux Administration |
+| Linux Log Analysis | Log Investigation |
+| DNS Analysis | DNS Traffic Analysis |
 
 ## 📚 Currently Learning
 
