@@ -1,5 +1,4 @@
-<img width="1030" height="610" alt="Screenshot 2026-08-04 212552" src="https://github.com/user-attachments/assets/7116a09a-a117-4726-80d6-954be7d997df" />
-<img width="1030" height="610" alt="Screenshot 2026-08-04 212552" src="https://github.com/user-attachments/assets/b63bc305-d3ff-400c-842c-875b5d2a392a" />
+
 # PowerShell System Information Investigation
 
 ## Scenario
@@ -72,28 +71,28 @@ PowerShell provides a fast and efficient way to gather system information for tr
 
 ## Screenshots
 
-### Get-ComputerInfo
+### Computer Information
 
 <img width="1030" height="610" alt="Screenshot 2026-08-04 212552" src="https://github.com/user-attachments/assets/aefdba3f-ae21-4a96-82df-e7917dac5a91" />
 eenshot here)
 
 ---
 
-### Get-Process
+### Running Processes
 
 <img width="731" height="613" alt="Screenshot 2026-08-04 212624" src="https://github.com/user-attachments/assets/3369d805-4253-4e55-a70a-fb94a2dbc0fd" />
 
 
 ---
 
-### Get-Service
+### Running Services
 
 <img width="661" height="620" alt="Screenshot 2026-08-04 212649" src="https://github.com/user-attachments/assets/b1e34aba-32a2-4d08-b7f7-481e5489d839" />
 
 
 ---
 
-### Get-NetIPAddress
+### Network Information
 
 <img width="555" height="618" alt="image" src="https://github.com/user-attachments/assets/37a224ed-87a1-40b2-82ae-6e40843de781" />
 
