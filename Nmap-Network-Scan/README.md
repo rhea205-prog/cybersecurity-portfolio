@@ -39,13 +39,18 @@ nmap -sV scanme.nmap.org
 
 ## Findings
 
-The scan identified several open ports and detected the services running on the host.
+## Findings
 
-Examples included:
+The Nmap service scan successfully identified active services running on the target host.
 
-- SSH
-- HTTP
-- HTTPS
+Open services discovered included:
+
+- SSH (22/tcp)
+- HTTP (80/tcp)
+- Nping Echo (9929/tcp)
+- Elite Service (31337/tcp)
+
+The scan also detected that the target was running a Linux operating system and identified the versions of several services.
 
 ---
 
