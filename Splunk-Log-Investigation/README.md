@@ -96,6 +96,9 @@ This demonstrates how SIEM platforms help security analysts detect unauthorized 
 
 <img width="1526" height="639" alt="image" src="https://github.com/user-attachments/assets/bb702c15-cf10-4513-9a4b-8af1719361d4" />
 
+## Project Summary
+
+This project demonstrates how Splunk Enterprise can collect, search, and analyze Windows Security Event Logs. By investigating Event ID 4625, I identified failed authentication attempts and documented the results using professional security investigation techniques.
 
 
 
