@@ -64,4 +64,4 @@ The scan also detected that the target was running a Linux operating system and 
 
 ## Screenshot
 
-(Add screenshot here)
+![Nmap Scan](nmap-scan.png)
