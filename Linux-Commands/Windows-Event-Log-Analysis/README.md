@@ -58,5 +58,5 @@ Common Event IDs reviewed included:
 ---
 
 ## Screenshot
+<img width="806" height="984" alt="Screenshot 2026-08-04 203830" src="https://github.com/user-attachments/assets/5cf74295-63ff-4723-b151-1f8881566ea5" />
 
-(Add screenshot here)
