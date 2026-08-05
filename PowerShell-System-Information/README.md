@@ -74,7 +74,7 @@ PowerShell provides a fast and efficient way to gather system information for tr
 ### Computer Information
 
 <img width="1030" height="610" alt="Screenshot 2026-08-04 212552" src="https://github.com/user-attachments/assets/aefdba3f-ae21-4a96-82df-e7917dac5a91" />
-eenshot here)
+
 
 ---
 
